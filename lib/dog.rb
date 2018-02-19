@@ -18,3 +18,4 @@ class Dog
 end
 
 lassie.name = "lassie"
+puts "#{lassie.name}"
