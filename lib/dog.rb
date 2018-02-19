@@ -20,3 +20,7 @@ end
 lassie = Dog.new
 lassie.name = "Lassie"
 puts lassie.name
+
+scot = Dog.new
+scot.name = "Jennifer"
+puts scott.name
