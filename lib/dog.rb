@@ -16,3 +16,5 @@ class Dog
   end
 
 end
+
+lassie.name = "lassie"
