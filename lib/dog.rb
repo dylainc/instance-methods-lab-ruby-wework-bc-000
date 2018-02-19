@@ -21,6 +21,6 @@ lassie = Dog.new
 lassie.name = "Lassie"
 puts lassie.name
 
-scot = Dog.new
-scot.name = "Jennifer"
+scott = Dog.new
+scott.name = "Jennifer"
 puts scott.name
